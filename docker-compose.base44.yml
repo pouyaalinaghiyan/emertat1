@@ -18,7 +18,7 @@ services:
       - horizon_node_modules:/app/node_modules
     command: ["sh", "-ec", "npm install && exec npm run dev"]
     healthcheck:
-      test: ["CMD", "wget", "-qO-", "http://localhost:3000/"]
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3000/"]
       interval: 15s
       timeout: 5s
       retries: 10
