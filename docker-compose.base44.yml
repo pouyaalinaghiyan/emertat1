@@ -1,0 +1,28 @@
+services:
+  web:
+    image: node:20-alpine
+    working_dir: /app
+    container_name: horizon_web
+    restart: on-failure
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=1
+      - __VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS=${BASE44_SANDBOX_HOST_DOMAIN}
+      - BASE44_PREVIEW_MODE=${BASE44_PREVIEW_MODE:-0}
+      - BASE44_PUBLIC_HOST_SUFFIX=${BASE44_PUBLIC_HOST_SUFFIX:-}
+      - BASE44_SANDBOX_HOST_DOMAIN=${BASE44_SANDBOX_HOST_DOMAIN:-}
+    volumes:
+      - ./:/app
+      - horizon_node_modules:/app/node_modules
+    command: ["sh", "-ec", "npm install && exec npm run dev"]
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+      start_period: 40s
+
+volumes:
+  horizon_node_modules:
