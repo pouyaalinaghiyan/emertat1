@@ -59,8 +59,8 @@ export const properties: Property[] = [
     hero: u('1600596542815-ffad4c1539a9', 1400),
     gallery: [
       u('1600596542815-ffad4c1539a9', 1400),
-      u('1600585154340-be6161a8a0cb', 1200),
-      u('1600210492486-7dc6f5e9e3cb', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
       u('1600566753086-00f18fb6b3ea', 1200),
     ],
     description:
@@ -78,7 +78,7 @@ export const properties: Property[] = [
       role: 'Managing Director',
       phone: '+1 (555) 246-7890',
       email: 'daniel@horizonproperties.com',
-      avatar: u('1507003211169-0a1dd7228f52', 400),
+      avatar: u('1472099645785-5658abf4ff4e', 400),
     },
   },
   {
@@ -97,12 +97,12 @@ export const properties: Property[] = [
     lotSize: '1.2 acres',
     yearBuilt: 2020,
     featured: true,
-    hero: u('1512917774083-646c532a14d8', 1400),
+    hero: u('1600596542815-ffad4c1539a9', 1400),
     gallery: [
-      u('1512917774083-646c532a14d8', 1400),
+      u('1600596542815-ffad4c1539a9', 1400),
       u('1600607687939-ce8a6c25118c', 1200),
       u('1600566753086-00f18fb6b3ea', 1200),
-      u('1600210492486-7dc6f5e9e3cb', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
     ],
     description:
       'Perched above the Pacific, this glass-walled residence dissolves the boundary between architecture and ocean. Polished concrete, brushed brass, and panoramic views form a serene retreat tuned to the rhythm of the coast.',
@@ -137,11 +137,11 @@ export const properties: Property[] = [
     lotSize: '2.4 acres',
     yearBuilt: 2019,
     featured: true,
-    hero: u('1518780664697-55e3acd361a3', 1400),
+    hero: u('1600566753086-00f18fb6b3ea', 1400),
     gallery: [
-      u('1518780664697-55e3acd361a3', 1400),
-      u('1480074558705-e3f72035711b', 1200),
-      u('1600585154340-be6161a8a0cb', 1200),
+      u('1600566753086-00f18fb6b3ea', 1400),
+      u('1600566753086-00f18fb6b3ea', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
       u('1600607687939-ce8a6c25118c', 1200),
     ],
     description:
@@ -153,7 +153,7 @@ export const properties: Property[] = [
       role: 'Investment Consultant',
       phone: '+1 (555) 246-7892',
       email: 'james@horizonproperties.com',
-      avatar: u('1500648760916-46616141936a', 400),
+      avatar: u('1506794778202-cad84cf45f1d', 400),
     },
   },
   {
@@ -176,8 +176,8 @@ export const properties: Property[] = [
     gallery: [
       u('1600607687939-ce8a6c25118c', 1400),
       u('1600596542815-ffad4c1539a9', 1200),
-      u('1600585154340-be6161a8a0cb', 1200),
-      u('1512917774083-646c532a14d8', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
+      u('1600596542815-ffad4c1539a9', 1200),
     ],
     description:
       'A waterfront residence composed of white concrete volumes and travertine, opening to a private beach. Interiors flow through double-height living spaces toward uninterrupted Atlantic horizon views.',
@@ -210,9 +210,9 @@ export const properties: Property[] = [
     hero: u('1600566753086-00f18fb6b3ea', 1400),
     gallery: [
       u('1600566753086-00f18fb6b3ea', 1400),
-      u('1600210492486-7dc6f5e9e3cb', 1200),
-      u('1600585154340-be6161a8a0cb', 1200),
-      u('1480074558705-e3f72035711b', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
+      u('1600566753086-00f18fb6b3ea', 1200),
     ],
     description:
       'Set into the hillside, this retreat frames the city below through a ribbon of glass. Tiered terraces, a vanishing-edge pool, and quiet material palettes create a calm perch above the city.',
@@ -223,7 +223,7 @@ export const properties: Property[] = [
       role: 'Managing Director',
       phone: '+1 (555) 246-7890',
       email: 'daniel@horizonproperties.com',
-      avatar: u('1507003211169-0a1dd7228f52', 400),
+      avatar: u('1472099645785-5658abf4ff4e', 400),
     },
   },
   {
@@ -242,12 +242,12 @@ export const properties: Property[] = [
     lotSize: '1.5 acres',
     yearBuilt: 2023,
     featured: true,
-    hero: u('1613478223719-2c1f3d8a6c5a', 1400),
+    hero: u('1600596542815-ffad4c1539a9', 1400),
     gallery: [
-      u('1613478223719-2c1f3d8a6c5a', 1400),
+      u('1600596542815-ffad4c1539a9', 1400),
       u('1600596542815-ffad4c1539a9', 1200),
       u('1600607687939-ce8a6c25118c', 1200),
-      u('1600585154340-be6161a8a0cb', 1200),
+      u('1600607687939-ce8a6c25118c', 1200),
     ],
     description:
       'A gated estate centered on a palm-fringed courtyard and reflecting pool. Limestone, bronze, and landscaped gardens compose a private world minutes from the heart of Beverly Hills.',
@@ -277,12 +277,12 @@ export const properties: Property[] = [
     lotSize: '0.9 acres',
     yearBuilt: 2020,
     featured: false,
-    hero: u('1480074558705-e3f72035711b', 1400),
+    hero: u('1600566753086-00f18fb6b3ea', 1400),
     gallery: [
-      u('1480074558705-e3f72035711b', 1400),
-      u('1600585154340-be6161a8a0cb', 1200),
+      u('1600566753086-00f18fb6b3ea', 1400),
+      u('1600607687939-ce8a6c25118c', 1200),
       u('1600566753086-00f18fb6b3ea', 1200),
-      u('1518780664697-55e3acd361a3', 1200),
+      u('1600566753086-00f18fb6b3ea', 1200),
     ],
     description:
       'A timber-and-stone lake house that opens to the water through wide glazing. Cedar cladding, a stone hearth, and a deep deck make a year-round retreat tuned to the seasons of the lake.',
@@ -293,7 +293,7 @@ export const properties: Property[] = [
       role: 'Investment Consultant',
       phone: '+1 (555) 246-7892',
       email: 'james@horizonproperties.com',
-      avatar: u('1500648760916-46616141936a', 400),
+      avatar: u('1506794778202-cad84cf45f1d', 400),
     },
   },
   {
@@ -312,10 +312,10 @@ export const properties: Property[] = [
     lotSize: 'N/A',
     yearBuilt: 2022,
     featured: false,
-    hero: u('1600210492486-7dc6f5e9e3cb', 1400),
+    hero: u('1600607687939-ce8a6c25118c', 1400),
     gallery: [
-      u('1600210492486-7dc6f5e9e3cb', 1400),
-      u('1600585154340-be6161a8a0cb', 1200),
+      u('1600607687939-ce8a6c25118c', 1400),
+      u('1600607687939-ce8a6c25118c', 1200),
       u('1600607687939-ce8a6c25118c', 1200),
       u('1600566753086-00f18fb6b3ea', 1200),
     ],

@@ -45,7 +45,7 @@ export function About() {
           <div className="grid grid-cols-5 grid-rows-6 gap-4 h-[460px] md:h-[560px]">
             <div className="col-span-3 row-span-6 overflow-hidden rounded-2xl group">
               <img
-                src="https://images.unsplash.com/photo-1600585154340-be6161a8a0cb?auto=format&fit=crop&w=900&q=80"
+                src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80"
                 alt="Luxury modern home interior"
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-[1.2s] ease-out group-hover:scale-105"

@@ -5,7 +5,7 @@ const team = [
   {
     name: 'Daniel Morgan',
     role: 'Managing Director',
-    img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f52?auto=format&fit=crop&w=600&q=80',
+    img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=600&q=80',
   },
   {
     name: 'Olivia Carter',
@@ -15,7 +15,7 @@ const team = [
   {
     name: 'James Wilson',
     role: 'Investment Consultant',
-    img: 'https://images.unsplash.com/photo-1500648760916-46616141936a?auto=format&fit=crop&w=600&q=80',
+    img: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&q=80',
   },
   {
     name: 'Sophia Bennett',

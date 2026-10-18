@@ -5,12 +5,12 @@ const services = [
   {
     title: 'Luxury Home Sales',
     desc: 'Discreet representation for distinguished residences, from listing to closing.',
-    img: 'https://images.unsplash.com/photo-1600585154340-be6161a8a0cb?auto=format&fit=crop&w=800&q=80',
+    img: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80',
   },
   {
     title: 'Property Investment',
     desc: 'Data-driven acquisition strategies across high-growth luxury markets.',
-    img: 'https://images.unsplash.com/photo-1480074558705-e3f72035711b?auto=format&fit=crop&w=800&q=80',
+    img: 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=800&q=80',
   },
   {
     title: 'Property Marketing',
@@ -20,7 +20,7 @@ const services = [
   {
     title: 'Real Estate Advisory',
     desc: 'Strategic counsel on portfolio composition, timing, and market positioning.',
-    img: 'https://images.unsplash.com/photo-1600210492486-7dc6f5e9e3cb?auto=format&fit=crop&w=800&q=80',
+    img: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80',
   },
   {
     title: 'Property Valuation',
@@ -30,7 +30,7 @@ const services = [
   {
     title: 'Relocation Services',
     desc: 'End-to-end support for seamless moves into your new home and city.',
-    img: 'https://images.unsplash.com/photo-1518780664697-55e3acd361a3?auto=format&fit=crop&w=800&q=80',
+    img: 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=800&q=80',
   },
 ]
 
